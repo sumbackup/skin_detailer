@@ -1,0 +1,11 @@
+{
+    "input": {
+      "image": "https://i.pinimg.com/736x/13/3c/94/133c945e108417e433883e1ad35fd819.jpg",
+      "user_prompt": "a detailed portrait",
+      "fixed_positive": "realistic skin texture",
+      "user_negative": "blurry",
+      "fixed_negative": "poor quality",
+      "seed": 12345,
+      "denoise": 0.3
+    }
+  }
